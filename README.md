@@ -509,9 +509,9 @@ In order to resolve this issue, we determined the proportion of each race and et
 
 ##### Data Releases
 
-The next challenge interns face is the complications of a technology-based reporting system. Throughout the project, there have been technical difficulties with sites crashing, unclear reporting times based on test-updates. There is also wide variation in when counties report ranging from weekly to hourly updates. For that reason, we record data daily and those counties reporting less frequently are denoted.
+The next challenge interns face is the complications of a technology-based reporting system. Throughout the project, there have been technical difficulties with sites crashing, unclear reporting times based on test-updates. There is also wide variation in when counties report ranging from weekly to hourly updates. For that reason, we record data daily and those counties reporting less frequently are denoted. 
 
-In addition, our data is currently in the long format. We have SAS code available on our [GitHub](https://github.com/BroadStreet-Health/open-source-contributions/tree/main/Race-and-Ethnicity-VAcode) to convert this data into wide format. 
+In addition, our data is currently in the long format. We have SAS code available on our [GitHub](https://github.com/BroadStreet-Health/open-source-contributions/tree/main/Race-and-Ethnicity-VAcode) to convert this data into wide format. It can be found under the repository titled “open-source-contributions” under the file named “Race-and-Ethnicity ConvertorCode”.
 
 
 ### References
