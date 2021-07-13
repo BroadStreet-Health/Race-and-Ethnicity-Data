@@ -165,6 +165,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Reporting Anomalies
    </td>
+    <td>Date Stopped Reporting
+    </td>
   </tr>
   <tr>
    <td>Alabama
@@ -175,6 +177,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Race: only white, black, and other
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Arizona
@@ -185,6 +189,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>California
@@ -195,6 +201,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Each county updates differently (use county websites)
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Colorado
@@ -205,6 +213,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Delaware
@@ -215,6 +225,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Florida
@@ -225,6 +237,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Automated
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Georgia
@@ -236,6 +250,8 @@ When data is not available, often from lack of collection for that category, a -
    <td>Automated<br>
      Does not report American Indian, Native Hawaiian, 2+ races
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Idaho
@@ -246,6 +262,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Illinois
@@ -258,6 +276,8 @@ When data is not available, often from lack of collection for that category, a -
      Race: no multiracial <br>
      Ethnicity: only Hispanic
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Indiana
@@ -268,6 +288,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Data Entered through Scripts
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Iowa
@@ -278,6 +300,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Kansas
@@ -288,6 +312,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Kentucky
@@ -298,6 +324,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Each county updates differently (use county websites)
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Louisiana
@@ -308,6 +336,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Race: only white, black, other, and unknown
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Maryland
@@ -318,6 +348,8 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Michigan
@@ -330,6 +362,8 @@ When data is not available, often from lack of collection for that category, a -
 <p>
 Ethnicity: no data
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Mississippi
@@ -340,6 +374,8 @@ Ethnicity: no data
    </td>
    <td>Race: No mutliracial or Hawaiian; data is separated by ethnicity
    </td>
+    <td> May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Missouri
@@ -350,6 +386,8 @@ Ethnicity: no data
    </td>
    <td>-
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Nebraska
@@ -360,6 +398,32 @@ Ethnicity: no data
    </td>
    <td>-
    </td>
+    <td> May 12, 2021
+    </td>
+  </tr>
+  <tr>
+    <td>Nevada
+    </td>
+    <td>County Variation: some update weekly, irregularly, or not at all
+    </td>
+    <td>-
+    </td>
+    <td>-
+    </td>
+    <td>May 12, 2021
+    </td>
+  </tr>
+   <tr>
+    <td>New Mexico
+    </td>
+    <td>County Variation: some update weekly, irregularly, or not at all
+    </td>
+    <td>No
+    </td>
+    <td>-
+    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>North Carolina
@@ -370,6 +434,8 @@ Ethnicity: no data
    </td>
    <td>Does not report Native Hawaiian or 2+ races
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Ohio
@@ -380,6 +446,8 @@ Ethnicity: no data
    </td>
    <td>Race & Ethnicity: Combines Refused to Answer and Unknown into “Unknown”
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Oklahoma
@@ -392,6 +460,8 @@ Ethnicity: no data
 <p>
 Ethnicity: no data
    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Oregon
@@ -402,6 +472,8 @@ Ethnicity: no data
    </td>
    <td>-
    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Pennsylvania
@@ -412,6 +484,8 @@ Ethnicity: no data
    </td>
    <td>-
    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>South Carolina
@@ -422,6 +496,8 @@ Ethnicity: no data
    </td>
    <td>Race: Does not include multiracial; combines Asian, American Indian, and Native Hawaiian into “Asian”
    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Tennessee
@@ -433,6 +509,8 @@ Ethnicity: no data
    <td>
 Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial are Combined 
    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Texas
@@ -463,6 +541,8 @@ Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial
    </td>
    <td>-
    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>West Virginia
@@ -473,6 +553,8 @@ Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial
    </td>
    <td>Race: Only white, black and other
    </td>
+    <td>
+    </td>
   </tr>
   <tr>
    <td>Wisconsin
@@ -484,6 +566,8 @@ Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial
    <td>
 Automated; Does not report native Hawaiian/Pacific Islander or Other
    </td>
+    <td>
+    </td>
   </tr>
 </table>
 
