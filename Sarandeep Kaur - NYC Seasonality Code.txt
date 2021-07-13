@@ -1,0 +1,84 @@
+/* Using the file with all the seasonal data from Jun 2020-April 2021 for NYC County*/
+
+FILENAME Project '/home/u58848680/sasuser.v94/NYC County/NYC.xlsx';
+
+
+/*Importing the data into a new project called Project*/
+PROC IMPORT DATAFILE=Project
+	DBMS=XLSX
+	OUT=WORK.Project;
+	GETNAMES=YES;
+	
+RUN;
+
+
+
+
+/* creating a dataset for calculating covid case rates */
+data NYC_rates; set Project;
+if categories= 'white' then case_rates = (case_count/(0.565*1631993));
+else if categories= 'black_african_american' then case_rates = (case_count/(0.148*1631993));
+else if categories= 'asian' then case_rates= (case_count/(0.122*1631993));
+else if categories= 'hispanic_(all_races)' then case_rates= (case_count/(0.258*1631993));
+else if categories= 'cumulative_cases' then case_rates=(case_count/1631993);
+run;
+
+title;
+proc sgplot data= NYC_rates;
+	series x=date y=case_rates/ group= categories;
+title "Overall NYC County COVID-19 Cases Rates" ;
+
+
+
+/* creating each datasets*/
+data White; set NYC_rates;
+	where categories= 'white';
+run;
+
+data Black; set NYC_rates;
+	where categories='black_african_american';
+run;
+
+data Asian; set NYC_rates;
+	where categories='asian';
+run;
+
+data Hispanic; set NYC_rates;
+	where categories='hispanic_(all_races)';
+run;
+
+data Total; set NYC_rates;
+	where categories='cumulative_cases';
+run;
+
+
+/*graphing the data for each season*/
+
+title ;
+proc sgplot data=White;
+	series x=date y= case_rates/ group= categories;
+	yaxis max= 0.18;
+title ;
+
+title "White Covid-19 Case Rates in NYC County" ;
+proc sgplot data= Black;
+series x=date y= case_rates/ group = categories;
+title ;
+
+
+title "Black Covid-19 Case Rates in NYC County";
+proc sgplot data=Asian;
+	series x=date y= case_rates/ group= categories;
+title ;
+
+title "Asian Covid-19 Case Rates in NYC County";
+proc sgplot data=Hispanic;
+	series x=date y= case_rates/ group= categories;
+title ;
+
+title "Hispanic Covid-19 Case Rates in NYC County" ;
+proc sgplot data=Total;
+	series x=date y= case_rates/ group= categories;
+title "Cumulative Covid-19 Case Rates in NYC County";
+
+*/
