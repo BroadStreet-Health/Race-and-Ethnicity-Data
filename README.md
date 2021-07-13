@@ -16,6 +16,8 @@ The Centers for Disease Control and Prevention (CDC) reports social inequality a
 The purpose of the Health Equity team is to collect and report all race and ethnicity data for confirmed cases of COVID-19 across the United States.We publish our data monthly. We report this dataset to include the disparate impacts  of COVID-19 on different racial and ethnic groups.
 
 
+Since February 2021, we have noticed that many states have been reporting COVID-19 case rates for race/ethnicity less frequently. For example, in March, Oklahoma went from reporting new data daily to reporting it weekly. In fact, some states have completely stopped reporting race and ethnicity data. As a result, we have decided to stop reporting this data. The available dates for each state is described in Table 3.
+
 ## Structure of the Dataset
 
 
