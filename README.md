@@ -225,7 +225,7 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
-    <td>
+    <td> June 30, 2021
     </td>
   </tr>
   <tr>
@@ -237,7 +237,7 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Automated
    </td>
-    <td>
+    <td> June 1, 2021
     </td>
   </tr>
   <tr>
@@ -250,7 +250,7 @@ When data is not available, often from lack of collection for that category, a -
    <td>Automated<br>
      Does not report American Indian, Native Hawaiian, 2+ races
    </td>
-    <td>
+    <td> May 12, 2021
     </td>
   </tr>
   <tr>
@@ -262,7 +262,7 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>-
    </td>
-    <td> May 12, 2021
+    <td>May 12, 2021
     </td>
   </tr>
   <tr>
@@ -276,7 +276,7 @@ When data is not available, often from lack of collection for that category, a -
      Race: no multiracial <br>
      Ethnicity: only Hispanic
    </td>
-    <td>
+    <td>May 12, 2021
     </td>
   </tr>
   <tr>
@@ -288,7 +288,7 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Data Entered through Scripts
    </td>
-    <td>
+    <td>May 12, 2021
     </td>
   </tr>
   <tr>
@@ -324,7 +324,7 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Each county updates differently (use county websites)
    </td>
-    <td>
+    <td>May 12, 2021
     </td>
   </tr>
   <tr>
@@ -336,7 +336,7 @@ When data is not available, often from lack of collection for that category, a -
    </td>
    <td>Race: only white, black, other, and unknown
    </td>
-    <td>
+    <td>May 12, 2021
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@ Ethnicity: no data
    </td>
    <td>-
    </td>
-    <td>
+    <td>May 12, 2021
     </td>
   </tr>
   <tr>
@@ -434,7 +434,7 @@ Ethnicity: no data
    </td>
    <td>Does not report Native Hawaiian or 2+ races
    </td>
-    <td>
+    <td>May 12, 2021
     </td>
   </tr>
   <tr>
@@ -446,7 +446,7 @@ Ethnicity: no data
    </td>
    <td>Race & Ethnicity: Combines Refused to Answer and Unknown into “Unknown”
    </td>
-    <td>
+    <td>May 12, 2021
     </td>
   </tr>
   <tr>
@@ -496,7 +496,7 @@ Ethnicity: no data
    </td>
    <td>Race: Does not include multiracial; combines Asian, American Indian, and Native Hawaiian into “Asian”
    </td>
-    <td>May 12, 2021
+    <td>June 30, 2021
     </td>
   </tr>
   <tr>
@@ -509,7 +509,7 @@ Ethnicity: no data
    <td>
 Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial are Combined 
    </td>
-    <td>May 12, 2021
+    <td>June 30, 2021
     </td>
   </tr>
   <tr>
@@ -521,6 +521,8 @@ Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial
    </td>
    <td>Each county updates differently
    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Virginia
@@ -530,7 +532,9 @@ Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial
    <td>Yes
    </td>
    <td>Automated;  Reports by health district but is converted into county level (see methods below)
-   </td>
+    </td>
+    <td>May 12, 2021
+    </td>
   </tr>
   <tr>
    <td>Washington
@@ -553,7 +557,7 @@ Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial
    </td>
    <td>Race: Only white, black and other
    </td>
-    <td>
+    <td>June 30,2021
     </td>
   </tr>
   <tr>
@@ -566,7 +570,7 @@ Updates Per 100,000; American Indian and Alaskan Combined, Other and Multiracial
    <td>
 Automated; Does not report native Hawaiian/Pacific Islander or Other
    </td>
-    <td>
+    <td>May 12, 2021
     </td>
   </tr>
 </table>
