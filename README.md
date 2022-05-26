@@ -1,6 +1,6 @@
 # Broadstreet COVID-19 Data Project
 
-# Health Equity
+# Health Equity (Race and Ethnicity Data)
 
 In March of 2020, COVID-19 spread through the United States. To combat the absence of data in the pandemic, the COVID-19 Data Project was developed by the Broadstreet team. Initially, the project included daily numbers data. It has since expanded to include data on race and ethnicity, hereon referred to as Health Equity, policy information, and various other intern-led research projects related to  the COVID-19 pandemic. That information can be found here:
 
